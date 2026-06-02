@@ -94,13 +94,8 @@ int main() {
 }
 ```
 # Output:
-```
-Enter date (DD/MM/YYYY): 29/02/2024
-Valid Date
+<img width="437" height="237" alt="image" src="https://github.com/user-attachments/assets/23dd7b57-835f-4d4e-a60c-29eb8cc56e76" />
 
-Enter date (DD/MM/YYYY): 31/04/2025
-Invalid Date
-```
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -178,11 +173,8 @@ int main() {
 }
 ```
 # Output:
-```
-Enter two numbers: 25 18
-Maximum = 25
-Minimum = 18
-```
+<img width="448" height="267" alt="image" src="https://github.com/user-attachments/assets/58865f61-a9b7-4ee9-8175-5598739546e6" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -260,13 +252,8 @@ int main() {
 }
 ```
 # Output:
-```
-Enter temperature in Celsius: 25
-Enter temperature in Fahrenheit: 98.6
+<img width="420" height="295" alt="image" src="https://github.com/user-attachments/assets/7e8bb4de-ebec-432f-9a6b-8cd538f288b6" />
 
-25.00 Celsius = 77.00 Fahrenheit
-98.60 Fahrenheit = 37.00 Celsius
-```
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -365,12 +352,8 @@ int main() {
 }
 ```
 # Output:
-```
-1  2  3  4
-5  6  7  8
-9 10 11 12
-13 14 15 16
-```
+<img width="550" height="325" alt="image" src="https://github.com/user-attachments/assets/673e022a-c74f-4a13-bf68-b1592c5eccb7" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -449,10 +432,8 @@ int main() {
 }
 ```
 # Output:
-```
-Enter a string: hello world program
-Converted String: HellO WorlD PrograM
-```
+<img width="391" height="236" alt="image" src="https://github.com/user-attachments/assets/c535fe7d-9416-4728-be46-021005e9b02b" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
